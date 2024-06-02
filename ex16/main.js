@@ -1,0 +1,1 @@
+document.getElementById('resultado').innerHTML = `${5%2}`
